@@ -1,0 +1,4 @@
+Coloque aqui as fotos do Vegetti (jpg):
+capa.jpg (fundo do topo), vegetti-perfil.jpg, vegetti-gol-gremio.jpg,
+vegetti-classico.jpg, vegetti-comemoracao.jpg, galeria-1.jpg ... galeria-12.jpg
+Enquanto a foto nao existir, o site mostra um quadro preto com o nome.
